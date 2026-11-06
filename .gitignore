@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+# JetBrains
+.idea/
+
+# PlatformIO
+.pio/
+
+# .NET build output
+bin/
+obj/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
